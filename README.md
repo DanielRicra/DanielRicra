@@ -13,8 +13,9 @@
 
 ## Proyectos destacados
 
-- **E-commerce**: Desarrollo de un sistema que permite a los usuarios comprar productos en línea, incluyendo carrito de compras.
-- **Plataforma de gestión de tareas**: Creación de una aplicación web para la gestión de tareas y proyectos, permitiendo a los usuarios organizar, asignar y dar seguimiento a las tareas.
+- [MERN (with MySQL) E-Commerce web Aplication](https://github.com/DanielRicra/mern-ecommerce-mysql.git)
+- [Task manager and to-do list web app](https://github.com/DanielRicra/todo-list-fullstack.git)
+- [**Recipe search and management system**](https://github.com/DanielRicra/recipes-explorer-pern.git)
 
 Si estás buscando un desarrollador web Full Stack apasionado y comprometido, ¡no dudes en contactarme!
 
@@ -43,6 +44,8 @@ Además, estoy abierto a la colaboración en proyectos emocionantes que me permi
 
 Contacto: danielricra.dev@gmail.com | LinkedIn: [Daniel Ricra](https://www.linkedin.com/in/daniel-ricra)
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRicra&show_icons=true&theme=tokyonight)](https://github.com/TSdnl13/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielricra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="danielricra" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRicra&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/TSdnl13/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielricra&show_icons=true&locale=en&theme=tokyonight" alt="danielricra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielricra&theme=tokyonight" alt="danielricra" /></p>
