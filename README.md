@@ -42,7 +42,7 @@ Además, estoy abierto a la colaboración en proyectos emocionantes que me permi
 
 ---
 
-Contacto: danielricra.dev@gmail.com | LinkedIn: [Daniel Ricra](https://www.linkedin.com/in/daniel-ricra)
+Contacto: danielricra.dev@gmail.com | LinkedIn: <a href="https://www.linkedin.com/in/daniel-ricra" target="_blank">Daniel Ricra</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielricra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="danielricra" /></p>
 
