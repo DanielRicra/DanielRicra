@@ -4,6 +4,7 @@
 
 ## Proyectos destacados
 
+- [PERN E-Commerce de Videojuegos online con chat en tiempo real](https://github.com/DanielRicra/pf-videogames)
 - [MERN (with MySQL) E-Commerce web Aplication](https://github.com/DanielRicra/mern-ecommerce-mysql.git)
 - [Task manager and to-do list web app](https://github.com/DanielRicra/todo-list-fullstack.git)
 - [Recipe search and management system](https://github.com/DanielRicra/recipes-explorer-pern.git)
